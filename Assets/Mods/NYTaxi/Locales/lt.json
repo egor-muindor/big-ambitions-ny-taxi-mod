@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "Taksi dispečerinė visą parą",
+  "nytaxi:dispatcher_name": "NY Taxi dispečeris",
+  "nytaxi:textmessage_welcome": "NY Taxi jūsų paslaugoms! Reikia pavėžėti? Skambinkite, kai būsite gatvėje, ir atsiųsime artimiausią automobilį.",
+  "nytaxi:dialog_refuse_indoors": "Atsiprašome, iš pastato vidaus jūsų paimti negalime. Išeikite į gatvę ir paskambinkite dar kartą!",
+  "nytaxi:dialog_offer": "NY Taxi, laba diena! Reikia taksi? Automobilis gali atvykti per 5-10 minučių.",
+  "nytaxi:dialog_confirm_button": "Iškviesti taksi",
+  "nytaxi:message_player_order": "Man reikia taksi čia, prašau.",
+  "nytaxi:message_dispatcher_confirm": "Automobilis jau pakeliui! Atvyks maždaug po {minutes} min. Kai atvyks, pasakykite vairuotojui, kur važiuojate.",
+  "nytaxi:waiting": "Laukiama jūsų taksi..."
+}

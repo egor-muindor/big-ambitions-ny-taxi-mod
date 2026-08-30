@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "Ραδιοταξί 24 ώρες το 24ωρο",
+  "nytaxi:dispatcher_name": "Τηλεφωνήτρια NY Taxi",
+  "nytaxi:textmessage_welcome": "Το NY Taxi στη διάθεσή σας! Χρειάζεστε διαδρομή; Καλέστε μας μόλις βγείτε στον δρόμο και θα σας στείλουμε το πλησιέστερο ταξί.",
+  "nytaxi:dialog_refuse_indoors": "Λυπούμαστε, δεν μπορούμε να σας παραλάβουμε μέσα από κτίριο. Βγείτε στον δρόμο και καλέστε μας ξανά!",
+  "nytaxi:dialog_offer": "NY Taxi, καλημέρα σας! Χρειάζεστε ταξί; Ένα αυτοκίνητο μπορεί να είναι εκεί σε 5-10 λεπτά.",
+  "nytaxi:dialog_confirm_button": "Στείλτε ταξί",
+  "nytaxi:message_player_order": "Χρειάζομαι ένα ταξί στη θέση μου, παρακαλώ.",
+  "nytaxi:message_dispatcher_confirm": "Το αυτοκίνητο ξεκίνησε! Θα φτάσει σε περίπου {minutes} λεπτά. Μόλις έρθει, πείτε στον οδηγό πού πηγαίνετε.",
+  "nytaxi:waiting": "Αναμονή για το ταξί σας..."
+}

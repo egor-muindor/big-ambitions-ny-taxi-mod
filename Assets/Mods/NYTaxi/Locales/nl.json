@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "Taxicentrale, dag en nacht",
+  "nytaxi:dispatcher_name": "NY Taxi-centralist",
+  "nytaxi:textmessage_welcome": "NY Taxi staat voor u klaar! Een rit nodig? Bel ons zodra u op straat staat en we sturen de dichtstbijzijnde taxi.",
+  "nytaxi:dialog_refuse_indoors": "Sorry, we kunnen u niet ophalen vanuit een gebouw. Ga naar buiten en bel ons opnieuw!",
+  "nytaxi:dialog_offer": "NY Taxi, goedendag! Een taxi nodig? Een wagen kan er binnen 5 tot 10 minuten zijn.",
+  "nytaxi:dialog_confirm_button": "Stuur een taxi",
+  "nytaxi:message_player_order": "Ik heb een taxi nodig op mijn locatie, graag.",
+  "nytaxi:message_dispatcher_confirm": "De wagen is onderweg! Hij is er over ongeveer {minutes} minuten. Zeg de chauffeur dan waar u heen wilt.",
+  "nytaxi:waiting": "Wachten op uw taxi..."
+}

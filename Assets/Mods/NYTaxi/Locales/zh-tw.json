@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "24 小時計程車叫車服務",
+  "nytaxi:dispatcher_name": "NY Taxi 調度員",
+  "nytaxi:textmessage_welcome": "NY Taxi 隨時為您服務！需要用車嗎？只要您在街上，隨時來電，我們就派最近的車過去。",
+  "nytaxi:dialog_refuse_indoors": "抱歉，我們無法進入建築內接您。請到街上再打給我們！",
+  "nytaxi:dialog_offer": "NY Taxi，您好！需要用車嗎？車子 5-10 分鐘就能到您那裡。",
+  "nytaxi:dialog_confirm_button": "叫一輛車",
+  "nytaxi:message_player_order": "請派一輛計程車到我這裡。",
+  "nytaxi:message_dispatcher_confirm": "車已經出發了！大約 {minutes} 分鐘後到。上車後告訴司機您要去哪裡就行。",
+  "nytaxi:waiting": "正在等待您的計程車……"
+}

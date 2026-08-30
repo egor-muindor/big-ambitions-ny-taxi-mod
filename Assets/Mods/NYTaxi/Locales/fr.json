@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "Centrale de taxis 24h/24",
+  "nytaxi:dispatcher_name": "Standardiste NY Taxi",
+  "nytaxi:textmessage_welcome": "NY Taxi à votre service ! Besoin d'une course ? Appelez-nous dès que vous êtes dans la rue et nous vous envoyons le taxi le plus proche.",
+  "nytaxi:dialog_refuse_indoors": "Désolé, nous ne pouvons pas venir vous chercher à l'intérieur d'un bâtiment. Sortez dans la rue et rappelez-nous !",
+  "nytaxi:dialog_offer": "NY Taxi, bonjour ! Besoin d'un taxi ? Une voiture peut être sur place dans 5 à 10 minutes.",
+  "nytaxi:dialog_confirm_button": "Envoyer un taxi",
+  "nytaxi:message_player_order": "J'ai besoin d'un taxi à ma position, s'il vous plaît.",
+  "nytaxi:message_dispatcher_confirm": "La voiture est en route ! Elle arrivera dans environ {minutes} minutes. Une fois sur place, indiquez votre destination au chauffeur.",
+  "nytaxi:waiting": "En attente de votre taxi..."
+}

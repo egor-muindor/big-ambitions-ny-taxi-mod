@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "Dispecerat de taxi non-stop",
+  "nytaxi:dispatcher_name": "Dispecer NY Taxi",
+  "nytaxi:textmessage_welcome": "NY Taxi la dispoziția dumneavoastră! Aveți nevoie de o cursă? Sunați-ne când sunteți în stradă și trimitem cel mai apropiat taxi.",
+  "nytaxi:dialog_refuse_indoors": "Ne pare rău, nu vă putem prelua din interiorul unei clădiri. Ieșiți în stradă și sunați-ne din nou!",
+  "nytaxi:dialog_offer": "NY Taxi, bună ziua! Aveți nevoie de un taxi? O mașină poate ajunge în 5-10 minute.",
+  "nytaxi:dialog_confirm_button": "Trimiteți un taxi",
+  "nytaxi:message_player_order": "Am nevoie de un taxi la locația mea, vă rog.",
+  "nytaxi:message_dispatcher_confirm": "Mașina este pe drum! Ajunge în aproximativ {minutes} minute. Când sosește, spuneți-i șoferului unde mergeți.",
+  "nytaxi:waiting": "Se așteaptă taxiul..."
+}

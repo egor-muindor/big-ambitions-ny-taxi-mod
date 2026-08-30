@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "24/7 taxi dispatch service",
+  "nytaxi:dispatcher_name": "NY Taxi Dispatcher",
+  "nytaxi:textmessage_welcome": "NY Taxi at your service! Need a ride? Call us any time you're out on the street and we'll send the nearest cab your way.",
+  "nytaxi:dialog_refuse_indoors": "Sorry, we can't pick you up from inside a building. Step out to the street and call us again!",
+  "nytaxi:dialog_offer": "NY Taxi, good day! Need a cab? A car can be at your location within 5-10 minutes.",
+  "nytaxi:dialog_confirm_button": "Send a cab",
+  "nytaxi:message_player_order": "I need a taxi at my location, please.",
+  "nytaxi:message_dispatcher_confirm": "Cab's on the way! It will reach you in about {minutes} minutes. Once it arrives, tell the driver where you're headed.",
+  "nytaxi:waiting": "Waiting for your taxi..."
+}

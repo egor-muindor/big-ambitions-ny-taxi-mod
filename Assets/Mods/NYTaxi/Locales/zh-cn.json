@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "24 小时出租车调度服务",
+  "nytaxi:dispatcher_name": "NY Taxi 调度员",
+  "nytaxi:textmessage_welcome": "NY Taxi 随时为您服务！需要用车吗？只要您在街上，随时来电，我们就派最近的车过去。",
+  "nytaxi:dialog_refuse_indoors": "抱歉，我们无法进入建筑内接您。请到街上再打给我们！",
+  "nytaxi:dialog_offer": "NY Taxi，您好！需要用车吗？车子 5-10 分钟就能到您那儿。",
+  "nytaxi:dialog_confirm_button": "叫一辆车",
+  "nytaxi:message_player_order": "请派一辆出租车到我这里。",
+  "nytaxi:message_dispatcher_confirm": "车已经出发了！大约 {minutes} 分钟后到。上车后告诉司机您要去哪儿就行。",
+  "nytaxi:waiting": "正在等待您的出租车……"
+}

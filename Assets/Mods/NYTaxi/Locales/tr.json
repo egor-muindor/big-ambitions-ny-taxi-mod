@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "7/24 taksi çağrı merkezi",
+  "nytaxi:dispatcher_name": "NY Taxi operatörü",
+  "nytaxi:textmessage_welcome": "NY Taxi hizmetinizde! Yolculuk mu lazım? Sokağa çıktığınızda bizi arayın, en yakın taksiyi gönderelim.",
+  "nytaxi:dialog_refuse_indoors": "Üzgünüz, sizi bina içinden alamayız. Sokağa çıkıp tekrar arayın!",
+  "nytaxi:dialog_offer": "NY Taxi, iyi günler! Taksi ister misiniz? Araç 5-10 dakika içinde yanınızda olabilir.",
+  "nytaxi:dialog_confirm_button": "Taksi gönder",
+  "nytaxi:message_player_order": "Bulunduğum yere bir taksi istiyorum, lütfen.",
+  "nytaxi:message_dispatcher_confirm": "Araç yola çıktı! Yaklaşık {minutes} dakika içinde yanınızda olacak. Geldiğinde şoföre nereye gideceğinizi söyleyin.",
+  "nytaxi:waiting": "Taksiniz bekleniyor..."
+}

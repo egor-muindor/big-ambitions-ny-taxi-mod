@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "24시간 택시 배차 서비스",
+  "nytaxi:dispatcher_name": "NY 택시 배차원",
+  "nytaxi:textmessage_welcome": "NY 택시입니다! 이동이 필요하신가요? 거리에 계실 때 전화 주시면 가장 가까운 차량을 보내드립니다.",
+  "nytaxi:dialog_refuse_indoors": "죄송합니다, 건물 안에서는 모실 수 없습니다. 거리로 나오신 뒤 다시 전화해 주세요!",
+  "nytaxi:dialog_offer": "NY 택시입니다, 안녕하세요. 택시가 필요하신가요? 5~10분 안에 도착할 수 있습니다.",
+  "nytaxi:dialog_confirm_button": "택시 부르기",
+  "nytaxi:message_player_order": "제가 있는 곳으로 택시 한 대 보내주세요.",
+  "nytaxi:message_dispatcher_confirm": "차량이 출발했습니다! 약 {minutes}분 뒤에 도착합니다. 도착하면 기사님께 목적지를 말씀해 주세요.",
+  "nytaxi:waiting": "택시를 기다리는 중..."
+}

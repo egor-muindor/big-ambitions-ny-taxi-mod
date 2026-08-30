@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "Nonstop taxi dispečink",
+  "nytaxi:dispatcher_name": "Dispečer NY Taxi",
+  "nytaxi:textmessage_welcome": "NY Taxi k vašim službám! Potřebujete odvoz? Zavolejte, jakmile budete na ulici, a pošleme nejbližší vůz.",
+  "nytaxi:dialog_refuse_indoors": "Omlouváme se, z budovy vás vyzvednout nemůžeme. Vyjděte na ulici a zavolejte znovu!",
+  "nytaxi:dialog_offer": "NY Taxi, dobrý den! Potřebujete taxi? Vůz u vás může být do 5-10 minut.",
+  "nytaxi:dialog_confirm_button": "Poslat taxi",
+  "nytaxi:message_player_order": "Potřebuji taxi na svém místě, prosím.",
+  "nytaxi:message_dispatcher_confirm": "Vůz je na cestě! Dorazí asi za {minutes} minut. Až přijede, řekněte řidiči, kam jedete.",
+  "nytaxi:waiting": "Čekání na taxi..."
+}

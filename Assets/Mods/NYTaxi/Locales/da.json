@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "Taxicentral døgnet rundt",
+  "nytaxi:dispatcher_name": "NY Taxi-central",
+  "nytaxi:textmessage_welcome": "NY Taxi står klar! Skal du med? Ring til os, når du er ude på gaden, så sender vi den nærmeste vogn.",
+  "nytaxi:dialog_refuse_indoors": "Beklager, vi kan ikke hente dig inde i en bygning. Gå ud på gaden og ring igen!",
+  "nytaxi:dialog_offer": "NY Taxi, goddag! Skal du bruge en taxi? En vogn kan være hos dig om 5-10 minutter.",
+  "nytaxi:dialog_confirm_button": "Send en taxi",
+  "nytaxi:message_player_order": "Jeg skal bruge en taxi her, tak.",
+  "nytaxi:message_dispatcher_confirm": "Vognen er på vej! Den er hos dig om cirka {minutes} minutter. Sig så til chaufføren, hvor du skal hen.",
+  "nytaxi:waiting": "Venter på din taxi ..."
+}

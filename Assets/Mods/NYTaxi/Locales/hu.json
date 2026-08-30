@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "Éjjel-nappali taxiközpont",
+  "nytaxi:dispatcher_name": "NY Taxi diszpécser",
+  "nytaxi:textmessage_welcome": "Az NY Taxi a rendelkezésére áll! Fuvarra van szüksége? Hívjon minket, amint az utcán van, és küldjük a legközelebbi kocsit.",
+  "nytaxi:dialog_refuse_indoors": "Sajnáljuk, épületből nem tudjuk felvenni. Lépjen ki az utcára, és hívjon újra!",
+  "nytaxi:dialog_offer": "NY Taxi, jó napot! Kell egy taxi? Egy kocsi 5-10 percen belül ott lehet.",
+  "nytaxi:dialog_confirm_button": "Taxi küldése",
+  "nytaxi:message_player_order": "Szükségem lenne egy taxira ide, kérem.",
+  "nytaxi:message_dispatcher_confirm": "A kocsi elindult! Körülbelül {minutes} perc múlva ott lesz. Ha megérkezett, mondja meg a sofőrnek, hová megy.",
+  "nytaxi:waiting": "Várakozás a taxira..."
+}

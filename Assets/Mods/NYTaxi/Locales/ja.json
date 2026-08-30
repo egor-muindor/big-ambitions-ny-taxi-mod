@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "24時間対応のタクシー配車サービス",
+  "nytaxi:dispatcher_name": "NYタクシー配車係",
+  "nytaxi:textmessage_welcome": "NYタクシーです！ 移動が必要ですか？ 屋外にいるときにお電話いただければ、一番近い車をお送りします。",
+  "nytaxi:dialog_refuse_indoors": "申し訳ありません、建物の中まではお迎えに上がれません。通りに出てからおかけ直しください。",
+  "nytaxi:dialog_offer": "NYタクシーです、こんにちは。車は必要ですか？ 5〜10分ほどでお迎えに上がれます。",
+  "nytaxi:dialog_confirm_button": "配車を頼む",
+  "nytaxi:message_player_order": "こちらにタクシーを1台お願いします。",
+  "nytaxi:message_dispatcher_confirm": "車が向かっています！ 約{minutes}分で到着します。到着したら、運転手に行き先をお伝えください。",
+  "nytaxi:waiting": "タクシーを待っています..."
+}

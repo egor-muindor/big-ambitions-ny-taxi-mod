@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "Centrale taxi attiva 24 ore su 24",
+  "nytaxi:dispatcher_name": "Centralino NY Taxi",
+  "nytaxi:textmessage_welcome": "NY Taxi al tuo servizio! Ti serve una corsa? Chiamaci quando sei in strada e ti mandiamo il taxi più vicino.",
+  "nytaxi:dialog_refuse_indoors": "Spiacenti, non possiamo venire a prenderti dentro un edificio. Esci in strada e richiamaci!",
+  "nytaxi:dialog_offer": "NY Taxi, buongiorno! Ti serve un taxi? Possiamo mandarne uno entro 5-10 minuti.",
+  "nytaxi:dialog_confirm_button": "Manda un taxi",
+  "nytaxi:message_player_order": "Mi serve un taxi alla mia posizione, per favore.",
+  "nytaxi:message_dispatcher_confirm": "L'auto sta arrivando! Sarà da te tra circa {minutes} minuti. Quando arriva, di' al conducente dove vuoi andare.",
+  "nytaxi:waiting": "In attesa del taxi..."
+}

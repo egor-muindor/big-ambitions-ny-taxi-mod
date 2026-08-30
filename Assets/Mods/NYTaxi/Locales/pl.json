@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "Całodobowa centrala taxi",
+  "nytaxi:dispatcher_name": "Dyspozytor NY Taxi",
+  "nytaxi:textmessage_welcome": "NY Taxi do usług! Potrzebujesz kursu? Zadzwoń, gdy będziesz na ulicy, a wyślemy najbliższą taksówkę.",
+  "nytaxi:dialog_refuse_indoors": "Przykro nam, nie odbieramy pasażerów z wnętrza budynku. Wyjdź na ulicę i zadzwoń ponownie!",
+  "nytaxi:dialog_offer": "NY Taxi, dzień dobry! Potrzebujesz taksówki? Auto może być na miejscu w 5-10 minut.",
+  "nytaxi:dialog_confirm_button": "Wyślij taksówkę",
+  "nytaxi:message_player_order": "Potrzebuję taksówki w moim miejscu, proszę.",
+  "nytaxi:message_dispatcher_confirm": "Auto już jedzie! Będzie u ciebie za około {minutes} minut. Kierowcy powiesz, dokąd jedziemy.",
+  "nytaxi:waiting": "Oczekiwanie na taksówkę..."
+}

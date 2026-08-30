@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "Круглосуточная служба вызова такси",
+  "nytaxi:dispatcher_name": "Диспетчер NY Taxi",
+  "nytaxi:textmessage_welcome": "NY Taxi к вашим услугам! Нужна машина? Звоните в любое время, когда вы на улице, — вышлем ближайший кэб.",
+  "nytaxi:dialog_refuse_indoors": "К сожалению, мы не можем забрать вас из здания. Выйдите на улицу и перезвоните!",
+  "nytaxi:dialog_offer": "NY Taxi, добрый день! Нужна машина? Подадим в течение 5–10 минут.",
+  "nytaxi:dialog_confirm_button": "Вызвать такси",
+  "nytaxi:message_player_order": "Мне нужно такси, я на месте.",
+  "nytaxi:message_dispatcher_confirm": "Машина выехала! Будет у вас примерно через {minutes} мин. Когда приедет — скажете водителю, куда ехать.",
+  "nytaxi:waiting": "Ожидание такси..."
+}

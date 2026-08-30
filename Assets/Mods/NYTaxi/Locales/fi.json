@@ -1,0 +1,12 @@
+{
+  "nytaxi-contactname": "NY Taxi",
+  "nytaxi:description": "Taksikeskus ympäri vuorokauden",
+  "nytaxi:dispatcher_name": "NY Taxin välittäjä",
+  "nytaxi:textmessage_welcome": "NY Taxi palveluksessasi! Tarvitsetko kyydin? Soita, kun olet kadulla, niin lähetämme lähimmän taksin.",
+  "nytaxi:dialog_refuse_indoors": "Valitettavasti emme voi hakea sinua rakennuksen sisältä. Astu kadulle ja soita uudelleen!",
+  "nytaxi:dialog_offer": "NY Taxi, päivää! Tarvitsetko taksin? Auto voi olla luonasi 5-10 minuutissa.",
+  "nytaxi:dialog_confirm_button": "Lähetä taksi",
+  "nytaxi:message_player_order": "Tarvitsen taksin tähän, kiitos.",
+  "nytaxi:message_dispatcher_confirm": "Auto on matkalla! Se on luonasi noin {minutes} minuutin kuluttua. Kerro sitten kuljettajalle, minne olet menossa.",
+  "nytaxi:waiting": "Odotetaan taksia..."
+}
