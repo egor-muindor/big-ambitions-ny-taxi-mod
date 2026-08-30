@@ -17,3 +17,7 @@ docs/specs/
 unity-*.log
 
 .DS_Store
+
+# Артефакты dotnet
+tools/typecheck/obj/
+tools/typecheck/bin/
