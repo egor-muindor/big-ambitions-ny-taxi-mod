@@ -1,0 +1,19 @@
+# Клон официального SDK (hovgaardgames/bigambitions) — рабочая копия для Unity
+sdk/
+
+# Игровые DLL (Big Ambitions_Data/Managed) — копируются из установленной игры,
+# копирайт Hovgaard Games
+game/
+
+# Декомпилированный игровой код — вспомогательный материал для разработки
+decompiled/
+
+# Рабочие материалы: спеки, планы, заметки по ходу разработки
+docs/superpowers/
+docs/plans/
+docs/specs/
+
+# Логи Unity batchmode
+unity-*.log
+
+.DS_Store
