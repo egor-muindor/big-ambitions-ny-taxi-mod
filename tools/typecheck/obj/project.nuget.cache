@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DlK/HMd/R8o=",
+  "success": true,
+  "projectFilePath": "/Users/egor/projects/big-ambitions-call-taxi-mod/tools/typecheck/NYTaxiTypecheck.csproj",
+  "expectedPackageFiles": [
+    "/Users/egor/.nuget/packages/netstandard.library.ref/2.1.0/netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

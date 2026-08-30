@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <Nullable>disable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <NoWarn>CS0649;MSB3277</NoWarn>
+    <ManagedDir>$(MSBuildThisFileDirectory)../../game/Big Ambitions_Data/Managed</ManagedDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../../sdk/Assets/Mods/NYTaxi/Scripts/**/*.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="$(ManagedDir)/BigAmbitions.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/BigAmbitions.ModAPI.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/BigAmbitions.ModsInternal.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/BigAmbitions.Legacy.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/BigAmbitions.Items.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/DayNightCycle.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/ExternalPlugins.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/HGExtensions.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/HGPlugins.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/UnityEngine.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/UnityEngine.CoreModule.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/UnityEngine.AssetBundleModule.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/UnityEngine.PhysicsModule.dll"><Private>false</Private></Reference>
+    <Reference Include="$(ManagedDir)/UnityEngine.UI.dll"><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>

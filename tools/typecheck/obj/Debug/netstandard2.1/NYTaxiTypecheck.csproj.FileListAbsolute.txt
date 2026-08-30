@@ -1,0 +1,10 @@
+/Users/egor/projects/big-ambitions-call-taxi-mod/tools/typecheck/bin/Debug/netstandard2.1/NYTaxiTypecheck.deps.json
+/Users/egor/projects/big-ambitions-call-taxi-mod/tools/typecheck/bin/Debug/netstandard2.1/NYTaxiTypecheck.dll
+/Users/egor/projects/big-ambitions-call-taxi-mod/tools/typecheck/bin/Debug/netstandard2.1/NYTaxiTypecheck.pdb
+/Users/egor/projects/big-ambitions-call-taxi-mod/tools/typecheck/obj/Debug/netstandard2.1/NYTaxiTypecheck.csproj.AssemblyReference.cache
+/Users/egor/projects/big-ambitions-call-taxi-mod/tools/typecheck/obj/Debug/netstandard2.1/NYTaxiTypecheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egor/projects/big-ambitions-call-taxi-mod/tools/typecheck/obj/Debug/netstandard2.1/NYTaxiTypecheck.AssemblyInfoInputs.cache
+/Users/egor/projects/big-ambitions-call-taxi-mod/tools/typecheck/obj/Debug/netstandard2.1/NYTaxiTypecheck.AssemblyInfo.cs
+/Users/egor/projects/big-ambitions-call-taxi-mod/tools/typecheck/obj/Debug/netstandard2.1/NYTaxiTypecheck.csproj.CoreCompileInputs.cache
+/Users/egor/projects/big-ambitions-call-taxi-mod/tools/typecheck/obj/Debug/netstandard2.1/NYTaxiTypecheck.dll
+/Users/egor/projects/big-ambitions-call-taxi-mod/tools/typecheck/obj/Debug/netstandard2.1/NYTaxiTypecheck.pdb
